@@ -1,9 +1,13 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Allie Tucker"
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "Resume"
       href: about.html
+output:
+  html_document:
+    theme: sandstone
+    css: style.css

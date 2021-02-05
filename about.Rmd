@@ -1,5 +1,53 @@
 ---
-title: "About Me"
+title: "Resume"
 ---
 
-Why I am awesome. 
+### Education: ###  
+
+
+#### Iowa State University ####  
+Bachelor of Science in Mathematics with Applications  
+Bachelor of Science in Data Science  
+  
+  
+
+#### Graduation: ####  
+May 2021  
+  
+  
+
+#### Coursework ####  
+Skills:  
+R, Python, SQL, SAS, Java, Power BI, Microsoft Azure ML Studio, AWS Machine Learning  
+  
+
+  
+  
+  
+  
+  
+  
+
+### Work Experience:  ###
+
+> Analytics Intern: John Deere Des Moines Works  
+  
+I had the opportunity to analyze and build tools to monitor COVID-19 at the factory. Additionally, I communicated with factory leadership to determine how to create more efficiency. 
+  
+  
+> Risk Analytics Intern: John Deere Financial 
+  
+At John Deere Financial, I help to support the company's strategic initiatives. I built statistical models to predict loss on defaulted credit accounts. 
+  
+  
+> Application Developer Intern: Zirous  
+  
+This internship gave me a wonderful opportunity: I spent the entire summer researching machine learning. Not only was I able to dive deep into this interesting subject, I also helped to create Zirous's business applications for ML. 
+  
+  
+  
+  
+ 
+
+
+

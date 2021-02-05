@@ -1,5 +1,21 @@
 ---
-title: "Personal Website"
+title: "Allie Tucker"
 ---
 
-Hello, World!
+## Mathematics and Data Science ##  
+
+### Hello!   ###
+
+#### My name is Allie Tucker. I'm a senior majoring in Mathematics with Applications and Data Science at Iowa State University. ####
+
+ 
+
+![](C:/Users/tucam/Documents/DS 401/professional_pic.jpg)   
+  
+  
+  
+  
+#### I have a passion for problem solving! Whether it is computer programming or writing proofs, I love the challenge of discovering solutions. I have applied my skills to research projects like counting juggling patterns and blood spatter analysis. Also I accepted an analytics position at John Deere's Intelligent Solutions Group (ISG). I am excited to begin my career as a Data Scientist!  ####
+  
+  
+  
